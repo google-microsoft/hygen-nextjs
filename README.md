@@ -44,7 +44,7 @@ Running this:
 
 
 
-`$ hygen-add https://github.com/google-microsoft/nextjs-cli`
+`$ hygen-add https://github.com/google-microsoft/hygen-nextjs`
 
 
 
@@ -62,18 +62,18 @@ If you want to install a `react` package from both `acme` and `awesome`, you can
 
 
 
-# nextjs-cli
+# hygen-nextjs
 
 ## create nextjs page 
 ```shell script
 
-hygen nextjs-cli page --path a/c/c --pagename test 
+hygen  hygen-nextjs page --path a/c/c --pagename test 
 
 ```
 
 ## install nextjs  typescript dependent 
 ```shell script
 
-hygen nextjs-cli i
+hygen hygen-nextjs i
 
 ```
