@@ -1,4 +1,4 @@
 ---
-sh: "yarn add --dev typescript @types/react @types/node"
+sh: "touch tsconfig.json && yarn add --dev typescript @types/react @types/node next-translate"
 ---
-hello, this was piped!
+
