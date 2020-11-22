@@ -71,9 +71,9 @@ hygen  hygen-nextjs page --path a/c/c --pagename test
 
 ```
 
-## install nextjs  typescript dependent 
+## init nextjs project 
 ```shell script
 
-hygen hygen-nextjs i
+hygen hygen-nextjs init
 
 ```
