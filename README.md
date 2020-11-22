@@ -64,10 +64,12 @@ If you want to install a `react` package from both `acme` and `awesome`, you can
 
 # hygen-nextjs
 
-## create nextjs page 
+## create nextjs page, components
 ```shell script
 
-hygen  hygen-nextjs page --path a/c/c --pagename test 
+hygen  hygen-nextjs page --path a/c/c
+ 
+hygen  hygen-nextjs components --path a/c/c 
 
 ```
 

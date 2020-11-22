@@ -1,6 +1,6 @@
 ---
-to: src/pages/<%= path %>/<%= pagename %>.scss
+to: src/pages/<%= path %>/<%= name %>.scss
 ---
-.<%= pagename %> {
+.<%= name %> {
 
 }

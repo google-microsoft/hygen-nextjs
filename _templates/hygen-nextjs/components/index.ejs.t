@@ -1,5 +1,5 @@
 ---
-to: src/pages/<%= path %>/<%= name %>.tsx
+to: src/components/<%= path %>/<%= name %>.tsx
 ---
 
 
